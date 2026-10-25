@@ -112,6 +112,7 @@ sedangkan `ref.read` dipakai di `onPressed`/`onTap` untuk **memanggil fungsi** s
 
 ## 👤 Pembuat
 
-**I Komang Yudistira Arya Permana (Yudis)**
-**Sandhyka Rafasya Trisnatan (Rafasya)**
+- **I Komang Yudistira Arya Permana (Yudis)**
+- **Sandhyka Rafasya Trisnatan (Rafasya)**
+
 Pemateri Raion Academy · Mobile Engineer 2026
